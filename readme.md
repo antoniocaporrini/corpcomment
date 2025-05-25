@@ -1,14 +1,14 @@
 # CorpComment
 
-Feedback app statica creata con Javascript. 
-Permette agli utenti di inviare feedback pubblici associati a un'azienda tramite hashtag.
+A static feedback app built with JavaScript.  
+It allows users to submit public feedback associated with a company using hashtags.
 
-## Funzionalità
-- Contatore di caratteri dinamico
-- Invio e visualizzazione di feedback
-- Filtro tramite hashtag
-- Upvote sui feedback
+## Features
+- Dynamic character counter  
+- Feedback submission and display  
+- Hashtag-based filtering  
+- Feedback upvoting  
 
-## Tecnologie
-- HTML, CSS, JavaScript Vanilla
-- FontAwesome per le icone
+## Technologies
+- HTML, CSS, Vanilla JavaScript  
+- FontAwesome for icons
